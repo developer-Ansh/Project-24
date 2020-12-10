@@ -23,7 +23,7 @@ function setup() {
     d1 = new Dustbin(600,655,120,10);
     d2 = new Dustbin(540,620,10,55);
     d3 = new Dustbin(660,620,10,55);
-    d4 = new Dustbin(400,670,800,10);
+//     d4 = new Dustbin(400,670,800,10);
     gr = new ground(400,670,800,10);
     crumble = new Paper(100,640,30);
 
